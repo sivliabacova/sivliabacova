@@ -7,7 +7,7 @@
 
 Hellou i am new here
 
-- 👀 I’m interested in it technologies.
+- 👀 I’m interested in it technologies. I am programmer that like PHP.
 
 <!---
 sivliabacova/sivliabacova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
