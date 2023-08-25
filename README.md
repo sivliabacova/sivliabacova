@@ -6,6 +6,7 @@
 Hellou i am new here.
 
 - 👀 I’m interested in it technologies. I am programmer that like PHP.
+- Next i am going to write some code.
 
 - sivliabacova/sivliabacova is a ✨ special ✨ 
 
