@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PHP code.
 
 
-Hellou i am new here.
+Hellou i am new here. How can i help you?
 
 - 👀 I’m interested in it technologies. I am programmer that like PHP.
 - Next i am going to write some code.
