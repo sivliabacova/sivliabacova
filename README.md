@@ -10,7 +10,7 @@ Hellou i am new here. How can i help you?
 
 - sivliabacova/sivliabacova is a ✨ special ✨ 
 
-I am interested in - ...
+I am interested in - Cryptocurrencies and programming
 
 <!---
 sivliabacova/sivliabacova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
