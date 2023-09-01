@@ -6,7 +6,7 @@
 Hellou i am new here. How can i help you?
 
 - 👀 I’m interested in it technologies. I am programmer that like PHP.
-- Next i am going to write some code. I will start with some basics.
+- Next i am going to write some code. I will start with some basics. First i am gonna learn HTML/CSS.
 
 - sivliabacova/sivliabacova is a ✨ special ✨ 
 
