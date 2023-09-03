@@ -8,7 +8,7 @@ Hellou i am new here. How can i help you?
 - 👀 I’m interested in it technologies. I am programmer that like PHP.
 - Next i am going to write some code. I will start with some basics. First i am gonna learn HTML/CSS.
 
-So today 2.9.2023 i am gonna learn basics of javascript.
+So today 2.9.2023 i am gonna learn basics of javascript and ajax.
 
 - sivliabacova/sivliabacova is a ✨ special ✨ 
 
