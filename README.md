@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sivliabacova
 - 👀 I’m interested in programming languages and i want to try to learn javascript.
-- 🌱 I’m currently learning PHP code.🌱🌱🌱 1...2...3....
+- 🌱 I’m currently learning PHP code.
 
 
 Hellou i am new here. How can i help you?
