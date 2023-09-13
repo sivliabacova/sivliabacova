@@ -10,11 +10,4 @@ Hellou i am new here. How can i help you?
 
 So today 2.9.2023 i am gonna learn basics of javascript and ajax.
 
-- sivliabacova/sivliabacova is a ✨ special ✨ 
-
-I am interested in - Cryptocurrencies and programming
-
-<!---
-sivliabacova/sivliabacova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am interested in - Cryptocurrencies and programming.
