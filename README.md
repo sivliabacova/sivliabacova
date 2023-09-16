@@ -11,3 +11,5 @@ Hellou i am new here. How can i help you?
 So today 2.9.2023 i am gonna learn basics of javascript and ajax.
 
 I am interested in - Cryptocurrencies and programming.
+
+woitr
